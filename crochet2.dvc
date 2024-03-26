@@ -1,0 +1,6 @@
+outs:
+- md5: fe67480524947fa267ff8804a22de996.dir
+  size: 11186203
+  nfiles: 39
+  hash: md5
+  path: crochet2
